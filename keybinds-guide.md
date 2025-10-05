@@ -1,53 +1,28 @@
 # ForgiaCraftX Keybind Guide
 
-> **Complete keybind reference organized by frequency of use**
+> **Mod keybinds organized by frequency of use**
 
-This guide covers all keybinds in the ForgiaCraftX modpack, organized from most frequently used to least. Keybinds with modifiers (Shift, Ctrl) are enabled by the AMECS mod.
+This guide covers only the **mod-specific keybinds** in ForgiaCraftX. Standard Minecraft controls (WASD, E for inventory, etc.) are not included.
 
 ---
 
 ## Table of Contents
 
-- [Essential Keybinds](#essential-keybinds) - Used constantly
-- [Very Frequent](#very-frequent-keybinds) - Multiple times per session
-- [Frequent](#frequent-keybinds) - Regular use
-- [Occasional](#occasional-keybinds) - Situational
-- [Rare](#rare-keybinds) - Advanced/rarely needed
+- [Essential](#essential) - Used constantly
+- [Very Frequent](#very-frequent) - Multiple times per session
+- [Frequent](#frequent) - Regular use
+- [Occasional](#occasional) - Situational
+- [Rare](#rare) - Advanced/rarely needed
 
 ---
 
-## Essential Keybinds
+## Essential
 
-*These are the core Minecraft controls and the most-used mod features you'll use constantly.*
-
-### Movement & Basic Controls
-
-| Key | Action | Description |
-|-----|--------|-------------|
-| **W** | Move Forward | Standard movement |
-| **A** | Move Left | Standard movement |
-| **S** | Move Backward | Standard movement |
-| **D** | Move Right | Standard movement |
-| **Space** | Jump | Jump and swim up |
-| **Left Shift** | Sneak | Sneak/crouch - prevents falling off edges |
-| **Left Ctrl** | Sprint | Sprint forward (double-tap W also works) |
-| **Left Mouse** | Attack/Break | Attack entities and break blocks |
-| **Right Mouse** | Use/Place | Use items, place blocks, interact |
-
-### Essential UI
-
-| Key | Action | Description |
-|-----|--------|-------------|
-| **E** | Inventory | Open your inventory |
-| **Esc** | Menu/Close | Open game menu or close current screen |
-| **Tab** | Player List | Show online players (multiplayer) |
-| **1-9** | Hotbar Slots | Select hotbar slot 1 through 9 |
-
-### Recipe Viewing (REI)
+### Roughly Enough Items (REI)
 
 **TODO: add picture**
 
-*Roughly Enough Items (REI) is your recipe viewer - essential for learning crafting recipes and seeing what items are used for.*
+*Recipe viewer - your encyclopedia for all crafting recipes and item uses in the modpack.*
 
 | Key | Action | Description |
 |-----|--------|-------------|
@@ -56,69 +31,43 @@ This guide covers all keybinds in the ForgiaCraftX modpack, organized from most 
 | **A** | Favorite Item | Add item to favorites for quick access |
 | **Ctrl+O** | Hide REI | Toggle the REI item panel on/off |
 
-> **Tip:** REI works in any GUI with items - crafting tables, furnaces, chests, etc. It's your encyclopedia for the entire modpack!
+> **Tip:** Works in any GUI with items. Essential for learning modded recipes!
 
 ---
 
-## Very Frequent Keybinds
+## Very Frequent
 
-*You'll use these multiple times every play session.*
-
-### Inventory Management
-
-| Key | Action | Description |
-|-----|--------|-------------|
-| **Q** | Drop Item | Drop the item you're holding |
-| **F** | Swap Offhand | Swap item between main hand and offhand |
-| **Middle Mouse** | Pick Block | In creative, pick the block you're looking at |
-
-### Communication
-
-| Key | Action | Description |
-|-----|--------|-------------|
-| **T** | Chat | Open chat to type messages |
-| **/** | Command | Open chat with "/" for commands |
-
-### Navigation (JourneyMap)
+### JourneyMap
 
 **TODO: add picture**
 
-*JourneyMap provides a real-time minimap and fullscreen map with waypoint tracking.*
+*Real-time minimap and fullscreen map with waypoint tracking.*
 
 | Key | Action | Description |
 |-----|--------|-------------|
 | **M** | Toggle Minimap | Show/hide the minimap in the corner of your screen |
 | **J** | Open Fullscreen Map | Open the large map view to see your surroundings |
-| **Shift+B** | Create Waypoint | Mark your current location as a waypoint (with Shift modifier) |
+| **Shift+B** | Create Waypoint | Mark your current location as a waypoint |
 | **Z** | Toggle Waypoints | Show/hide waypoint markers on minimap |
 | **N** | Waypoint Manager | Manage all your saved waypoints |
 
-> **Note:** Press B alone to open your backpack (see below). Use Shift+B to create waypoints.
-
-### Storage
-
-| Key | Action | Description |
-|-----|--------|-------------|
-| **B** | Open Backpack | Access your portable backpack inventory (Sophisticated Backpacks mod) |
+### Sophisticated Backpacks
 
 **TODO: add picture**
 
-> **Sophisticated Backpacks** adds portable storage that you can wear. Upgrade with crafting to add features like auto-pickup, void filters, and feeding!
-
----
-
-## Frequent Keybinds
-
-*Regular use during normal gameplay.*
-
-### World Interaction
+*Portable storage that you can wear and upgrade.*
 
 | Key | Action | Description |
 |-----|--------|-------------|
-| **C** | Save Hotbar | Save your current hotbar loadout |
-| **X** | Load Hotbar | Load your saved hotbar loadout |
+| **B** | Open Backpack | Access your portable backpack inventory |
 
-### Voice Chat (Simple Voice Chat)
+> **Note:** Backpacks can be upgraded with auto-pickup, void filters, feeding, and more!
+
+---
+
+## Frequent
+
+### Simple Voice Chat
 
 **TODO: add picture**
 
@@ -132,23 +81,23 @@ This guide covers all keybinds in the ForgiaCraftX modpack, organized from most 
 | **Shift+N** | Disable Voice Chat | Completely disable voice chat |
 | **G** | Voice Chat Group | Manage your voice chat group |
 
-> **How it works:** Simple Voice Chat uses proximity - players near you can hear you, and the voice gets quieter with distance. Perfect for multiplayer survival!
+> **How it works:** Proximity-based - players near you can hear you, voice gets quieter with distance.
 
 ### Create Mod
 
 **TODO: add picture**
 
-*Create adds mechanical contraptions powered by rotation. Build mills, factories, and automation!*
+*Build mechanical contraptions powered by rotation - mills, factories, and automation!*
 
 | Key | Action | Description |
 |-----|--------|-------------|
 | **Left Alt** | Tool Menu | Open the Create tool menu (Wrench, Goggles, etc.) |
 | **Left Alt** | Tool Belt | Quick-access belt for Create tools |
-| **W** (while holding item) | Ponder | See animated guide for Create items |
+| **W** (holding item) | Ponder | See animated guide for Create items |
 
-> **Create Mod** lets you build machines using gears, belts, and rotational power. The tool menu gives quick access to wrenches for configuring contraptions.
+> **Tip:** Hold W while holding any Create item to see how it works!
 
-### Railways (Create: Steam 'n' Rails)
+### Create: Steam 'n' Rails
 
 | Key | Action | Description |
 |-----|--------|-------------|
@@ -156,43 +105,33 @@ This guide covers all keybinds in the ForgiaCraftX modpack, organized from most 
 | **Left Alt** | Bogey Menu | Configure train bogeys (wheel assemblies) |
 | **Left Alt** | Cycle Menu | Cycle through menu options |
 
-### Screenshots & Perspective
-
-| Key | Action | Description |
-|-----|--------|-------------|
-| **F2** | Screenshot | Take a screenshot (saved to screenshots folder) |
-| **F5** | Toggle Perspective | Cycle through first-person, third-person back, third-person front |
-| **F11** | Fullscreen | Toggle fullscreen mode |
-
 ---
 
-## Occasional Keybinds
-
-*Situational - used when working with specific systems or features.*
+## Occasional
 
 ### Botania - Corporea System
 
 **TODO: add picture**
 
-*Botania is a magic mod based on flowers and nature mana. Corporea is its advanced item storage system.*
+*Magic mod based on flowers and nature mana. Corporea is its wireless item storage system.*
 
 | Key | Action | Description |
 |-----|--------|-------------|
 | **Shift+C** | Corporea Request | Request items from your Corporea network by typing item names |
 
-> **Corporea** is Botania's wireless item storage network. Place Corporea Sparks on chests and use the Corporea Index to request items by name!
+> **What is Corporea?** Botania's wireless item storage network. Place Corporea Sparks on chests and use the Corporea Index to request items by name!
 
 ### Modern Industrialization
 
 **TODO: add picture**
 
-*A tech mod focused on automation and multiblock machines. Progress from steam power to electric age!*
+*Tech mod focused on automation and multiblock machines. Progress from steam power to electric age!*
 
 | Key | Action | Description |
 |-----|--------|-------------|
 | **Shift+V** | Activate | Activate Modern Industrialization machines/tools |
-| **Up Arrow** | Extend (Tech Reborn) | Extend certain machines |
-| **Down Arrow** | Retract (Tech Reborn) | Retract certain machines |
+| **Up Arrow** | Extend | Extend certain machines (Tech Reborn) |
+| **Down Arrow** | Retract | Retract certain machines (Tech Reborn) |
 
 ### Deeper and Darker
 
@@ -203,13 +142,13 @@ This guide covers all keybinds in the ForgiaCraftX modpack, organized from most 
 | **Period (.)** | Boost | Activate boost ability (when wearing Warden armor) |
 | **Shift+T** | Transmit | Use transmit ability (Deeper & Darker armor) |
 
-### Chunk Loading
+### Chunk Loaders
 
 | Key | Action | Description |
 |-----|--------|-------------|
 | **Ctrl+L** | Open Chunk Loader | Access chunk loader configuration |
 
-> **Chunk Loaders** keep areas loaded even when you're far away - essential for automated farms and machines!
+> **Chunk Loaders** keep areas loaded even when you're far away - essential for automated farms!
 
 ### JADE (Just Another Item & Entity Display)
 
@@ -224,31 +163,29 @@ This guide covers all keybinds in the ForgiaCraftX modpack, organized from most 
 
 ---
 
-## Rare Keybinds
-
-*Advanced features or rarely-needed controls.*
+## Rare
 
 ### JourneyMap Fullscreen Controls
 
-*These only work when the fullscreen map (J) is open.*
+*Only work when fullscreen map (J) is open.*
 
 | Key | Action | Description |
 |-----|--------|-------------|
-| **C** | Chat Position | Adjust chat position in fullscreen map |
-| **O** | Fullscreen Options | Open fullscreen map options |
-| **H** | Disable Buttons | Hide UI buttons in fullscreen map |
-| **Shift+B** | Create Waypoint | Create waypoint while in fullscreen map |
 | **Arrow Keys** | Pan Map | Move the map view (North/South/East/West) |
 | **=** | Zoom In | Zoom in on the map |
 | **-** | Zoom Out | Zoom out on the map |
 | **[** | Minimap Type | Change minimap style |
 | **\\** | Minimap Preset | Switch minimap preset |
+| **C** | Chat Position | Adjust chat position in fullscreen map |
+| **O** | Fullscreen Options | Open fullscreen map options |
+| **H** | Disable Buttons | Hide UI buttons in fullscreen map |
+| **Shift+B** | Create Waypoint | Create waypoint while in fullscreen map |
 
-### Shaders (Iris)
+### Iris Shaders
 
 **TODO: add picture**
 
-*Iris Shaders adds beautiful graphics with lighting, shadows, and visual effects.*
+*Beautiful graphics with lighting, shadows, and visual effects.*
 
 | Key | Action | Description |
 |-----|--------|-------------|
@@ -256,7 +193,9 @@ This guide covers all keybinds in the ForgiaCraftX modpack, organized from most 
 | **Ctrl+K** | Toggle Shaders | Turn shaders on/off |
 | **Ctrl+O** | Shader Pack Selection | Open shader pack selection menu |
 
-### Inventory UI Management
+> **Performance Tip:** Toggle shaders off with Ctrl+K if you need better FPS.
+
+### Inventory Management
 
 *Fine-tune your inventory screen positions.*
 
@@ -282,25 +221,18 @@ This guide covers all keybinds in the ForgiaCraftX modpack, organized from most 
 | **F8** | Export Image | Export current recipe as an image |
 | **Middle Mouse** | Copy Recipe ID | Copy the recipe identifier (for developers) |
 
-### Miscellaneous
-
-| Key | Action | Description |
-|-----|--------|-------------|
-| **P** | Social Interactions | Open social interactions menu (report/ignore players) |
-| **L** | Advancements | Open advancements screen |
-
 ---
 
 ## AMECS Modifier System
 
-This modpack uses **AMECS** to enable modifier key combinations, allowing multiple functions to share the same base key.
+This modpack uses **AMECS** to enable modifier key combinations.
 
-**Modifiers:**
-- **Shift** - Hold Shift then press the key
-- **Ctrl** - Hold Ctrl then press the key
-- **Alt** - Hold Alt then press the key
+**How to use modifiers:**
+- **Shift+Key** - Hold Shift then press the key
+- **Ctrl+Key** - Hold Ctrl then press the key
+- **Alt+Key** - Hold Alt then press the key
 
-**Example:**
+**Examples:**
 - `B` = Open Backpack
 - `Shift+B` = Create Waypoint
 - `Ctrl+R` = Reload Shaders
@@ -321,8 +253,6 @@ This modpack uses **AMECS** to enable modifier key combinations, allowing multip
 - **U** - Show Usage
 - **A** - Favorite
 - **Ctrl+O** - Hide REI
-- **Backspace** - Previous Screen
-- **F8** - Export Image
 
 ### JourneyMap
 - **M** - Toggle Minimap
@@ -348,6 +278,7 @@ This modpack uses **AMECS** to enable modifier key combinations, allowing multip
 
 ### Modern Industrialization
 - **Shift+V** - Activate
+- **Up/Down Arrow** - Extend/Retract
 
 ### Iris Shaders
 - **Ctrl+R** - Reload Shaders
@@ -356,6 +287,18 @@ This modpack uses **AMECS** to enable modifier key combinations, allowing multip
 
 ### Sophisticated Backpacks
 - **B** - Open Backpack
+
+### Deeper & Darker
+- **Period (.)** - Boost
+- **Shift+T** - Transmit
+
+### Chunk Loaders
+- **Ctrl+L** - Open Chunk Loader
+
+### JADE
+- **Numpad 0** - Config
+- **Numpad 1** - Show Overlay
+- **Numpad 2** - Toggle Liquid
 
 ---
 
@@ -368,8 +311,6 @@ This modpack uses **AMECS** to enable modifier key combinations, allowing multip
 2. **Set waypoints early** - Use `Shift+B` to mark your base, villages, and important locations
 
 3. **Voice chat is proximity-based** - The closer you are to someone, the louder they sound
-
-4. **Save your hotbar** - Press `C` to save your current hotbar setup before switching tools
 
 ### For Create Users
 
@@ -385,35 +326,20 @@ This modpack uses **AMECS** to enable modifier key combinations, allowing multip
 
 ---
 
-## Conflicts Resolved
+## Context-Dependent Keybinds
 
-Some keys appear multiple times but won't conflict because they're **context-dependent**:
+Some keys won't conflict because they only work in specific situations:
 
-- **C**: Save Toolbar (general) vs. Pitch Mode (only when using cannons) vs. Chat Position (only in fullscreen map)
+- **C**: Pitch Mode (only with cannons) vs. Chat Position (only in fullscreen map)
 - **H**: Hide Voice Icons (general) vs. Disable Buttons (only in fullscreen map)
-- **Left Alt**: All Create mod features work together
-- **O**: Fullscreen Map Options (only in map) vs. Shader Selection (Ctrl+O)
-
-These won't interfere during normal gameplay!
-
----
-
-## File Locations
-
-If you need to manually edit keybinds:
-
-- **Main keybinds:** `options.txt`
-- **AMECS modifiers:** `options.amecsapi.txt`
-- **REI keybinds:** `config/roughlyenoughitems/config.json5`
-
-> **Note:** It's easier to change keybinds in-game via Options → Controls!
+- **Left Alt**: All Create mod features work together contextually
 
 ---
 
 ## Additional Resources
 
 - [Create Mod Wiki](https://create.fandom.com/wiki/Create_Mod_Wiki) - Learn about Create machines
-- [Botania Documentation](https://botaniamod.net/lexicon.php) - Get the Lexica Botania in-game
+- [Botania Documentation](https://botaniamod.net/lexicon.php) - Get the Lexica Botania in-game (Shift+Right-Click with a book on a Mystical Flower)
 - [JourneyMap Documentation](https://journeymap.readthedocs.io/) - Advanced mapping features
 - [REI on Modrinth](https://modrinth.com/mod/rei) - Recipe viewer documentation
 
