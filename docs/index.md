@@ -29,3 +29,17 @@ features:
     title: Ambientazione
     details: Esplora la grande isola e coopera con gli altri giocatori
 ---
+
+<script setup>
+import Countdown from './.vitepress/components/Countdown.vue'
+</script>
+
+<Countdown
+  targetDate="2025-10-10T21:30:00+02:00"
+  title="🎮 Apertura Server"
+  days="giorni"
+  hours="ore"
+  minutes="minuti"
+  seconds="secondi"
+  expired="Il server è aperto! Buon divertimento!"
+/>

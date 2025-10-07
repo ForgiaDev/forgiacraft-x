@@ -29,3 +29,17 @@ features:
     title: Setting
     details: Explore the large island and cooperate with other players
 ---
+
+<script setup>
+import Countdown from '../.vitepress/components/Countdown.vue'
+</script>
+
+<Countdown
+  targetDate="2025-10-10T21:30:00+02:00"
+  title="🎮 Server Opening"
+  days="days"
+  hours="hours"
+  minutes="minutes"
+  seconds="seconds"
+  expired="The server is open! Have fun!"
+/>
