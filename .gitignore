@@ -5,6 +5,7 @@ node_modules/
 dist/
 .vitepress/dist/
 .vitepress/cache/
+docs/.vitepress/cache/
 
 # Logs
 *.log
