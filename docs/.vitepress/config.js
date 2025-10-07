@@ -53,7 +53,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: '/images/installation/01-microsoft-login.png',
+    logo: '/images/hero-image.png',
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ForgiaDev/forgiacraft-x' }

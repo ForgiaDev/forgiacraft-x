@@ -6,7 +6,7 @@ hero:
   text: Minecraft Modpack
   tagline: Guess who's back
   image:
-    src: /images/installation/01-microsoft-login.png
+    src: /images/hero-image.png
     alt: ForgiaCraft X
   actions:
     - theme: brand
