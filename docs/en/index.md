@@ -29,3 +29,10 @@ features:
     title: Setting
     details: Explore the large island and cooperate with other players
 ---
+
+<style>
+.VPImage.image-src {
+  border-radius: 16px;
+  margin: 1.5rem;
+}
+</style>

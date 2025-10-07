@@ -29,3 +29,10 @@ features:
     title: Ambientazione
     details: Esplora la grande isola e coopera con gli altri giocatori
 ---
+
+<style>
+.VPImage.image-src {
+  border-radius: 16px;
+  margin: 1.5rem;
+}
+</style>
