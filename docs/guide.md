@@ -14,11 +14,14 @@ Guess who's back
 1. Scaricare e installare un launcher compatibile. In questa guida verrà usato come esempio ATLauncher, tuttavia dovrebbe andare bene qualunque launcher che permette di scaricare modpack da Modrinth.
     - Link: [ATLauncher](https://atlauncher.com/downloads)
 2. Se richiesto, fare login con le credenziali Microsoft per usare la licenza di Minecraft.
-<p align="center"><img src="images/javaw_76NNHws31D.png" alt="login screen" width="400"></p>
+<img src="/images/installation/01-microsoft-login.png" alt="Microsoft login screen" style="width: 100%">
 3. Trovare la sezione di ricerca modpack, eventualmente nella sezione di Modrinth. Per ATLauncher:
-    - Cliccare "Packs" nel menu a destra <p align="center"><img src="images/javaw_Ns9hqrZtMz.png" alt="install1" width="400"></p>
-    - Cliccare "Modrinth" nel menu a sinistra <p align="center"><img src="images/javaw_oNPwk1dUgQ.png" alt="install1" width="400"></p>
-    - Cercare "ForgiaCraft X" in alto a destra nella barra di ricerca <p align="center"><img src="images/mj06Fi95PY.png" alt="install1" width="400"></p>
+    - Cliccare "Packs" nel menu a destra
+    <img src="/images/installation/02-atlauncher-packs-menu.png" alt="ATLauncher Packs menu" style="width: 100%">
+    - Cliccare "Modrinth" nel menu a sinistra
+    <img src="/images/installation/03-modrinth-section.png" alt="Modrinth section" style="width: 100%">
+    - Cercare "ForgiaCraft X" in alto a destra nella barra di ricerca
+    <img src="/images/installation/04-search-forgiacraft.png" alt="Search ForgiaCraft X" style="width: 100%">
     - Cliccare "Install" e selezionare l'ultima versione disponibile
 4. Avviare il modpack. Per ATLauncher:
     - Cliccare "Instances" nel menu a destra
