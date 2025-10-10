@@ -25,6 +25,10 @@ features:
     title: Keybinds
     details: All mod commands and keys organized by frequency of use
     link: /en/keybinds
+  - icon: ✨
+    title: Optionals
+    details: Optional content to change the feel of the game
+    link: /en/optionals
   - icon: 🗺️
     title: Setting
     details: Explore the large island and cooperate with other players

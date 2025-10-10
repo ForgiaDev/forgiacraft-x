@@ -16,14 +16,16 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Guida Generale', link: '/guide' },
-          { text: 'Keybinds', link: '/keybinds' }
+          { text: 'Keybinds', link: '/keybinds' },
+          { text: 'Opzionali', link: '/optionals' }
         ],
         sidebar: [
           {
             text: 'Guide',
             items: [
               { text: 'Guida Generale', link: '/guide' },
-              { text: 'Guida Keybinds', link: '/keybinds' }
+              { text: 'Guida Keybinds', link: '/keybinds' },
+              { text: 'Guida Opzionali', link: '/optionals' }
             ]
           }
         ]
@@ -37,14 +39,16 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'General Guide', link: '/en/guide' },
-          { text: 'Keybinds', link: '/en/keybinds' }
+          { text: 'Keybinds', link: '/en/keybinds' },
+          { text: 'Optionals', link: '/en/optionals' }
         ],
         sidebar: [
           {
             text: 'Guides',
             items: [
               { text: 'General Guide', link: '/en/guide' },
-              { text: 'Keybinds Guide', link: '/en/keybinds' }
+              { text: 'Keybinds Guide', link: '/en/keybinds' },
+              { text: 'Optionals Guide', link: '/en/optionals' }
             ]
           }
         ]

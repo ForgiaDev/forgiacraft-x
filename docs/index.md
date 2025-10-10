@@ -25,6 +25,10 @@ features:
     title: Keybinds
     details: Tutti i comandi e tasti delle mod organizzati per frequenza d'uso
     link: /keybinds
+  - icon: ✨
+    title: Opzionali
+    details: Contenuti opzionali per cambiare il feeling del gioco
+    link: /optionals
   - icon: 🗺️
     title: Ambientazione
     details: Esplora la grande isola e coopera con gli altri giocatori
